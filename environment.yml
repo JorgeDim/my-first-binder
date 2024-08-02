@@ -3,6 +3,3 @@ channels:
   - conda-forge
 dependencies:
   - fenics-dolfinx 
-  - mpich 
-  - pyvista
-  - matplotlib  
